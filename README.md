@@ -35,7 +35,7 @@ Backend‑oriented Python developer focused on building clear, reliable, and pra
   (https://github.com/ewkland/MyBlog)
 
 - Mini-Platformer — a simple 2d game on pyGame
-  https://github.com/ewkland/MiniPlatformer
+  (https://github.com/ewkland/MiniPlatformer)
    
 
 - Picture Analyzer on CNN — pics analysis with an AI
