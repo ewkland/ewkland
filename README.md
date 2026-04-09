@@ -1,20 +1,4 @@
-## 👋 Hi, I'm Mihail
-
-<!--
-**ewkland/ewkland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+👋 Hi, I'm Mihail
 
 Backend‑oriented Python developer focused on building clear, reliable, and practical solutions.
 ⚙️ Skills and Technologies
@@ -29,16 +13,28 @@ Backend‑oriented Python developer focused on building clear, reliable, and pra
 
 - Working with external APIs and integrations
 
+🧠 Soft Skills
+
+- Problem‑solving mindset — able to break down tasks and find simple, reliable solutions
+
+- Clear communication — ask focused questions and write concise, understandable messages
+
+- Self‑management — work autonomously, plan tasks, and deliver results
+
+- Attention to detail — care about code structure, readability, and quality
+
+- Learning agility — quickly adopt new tools and technologies when needed
+
+- Team collaboration — comfortable discussing solutions, sharing ideas, and receiving feedback
+
 🚀 Projects
 
-- Flask Blog — a simple blog with login system
+- Flask Blog — a simple blog with a login system
   (https://github.com/ewkland/MyBlog)
 
-- Mini-Platformer — a simple 2d game on pyGame
+- Mini-Platformer — a simple 2D platformer built with PyGame
   (https://github.com/ewkland/MiniPlatformer)
-   
 
-- Picture Analyzer on CNN — pics analysis with an AI
+- Picture Analyzer on CNN — image analysis using a convolutional neural network
   (https://github.com/ewkland/cnnClassifier)
 
-  
