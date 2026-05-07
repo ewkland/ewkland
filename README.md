@@ -1,6 +1,7 @@
 👋 Hi, I'm Mihail
 
 Backend‑oriented Python developer focused on building clear, reliable, and practical solutions.
+
 ⚙️ Skills and Technologies
 
 - Python, OOP, algorithms
